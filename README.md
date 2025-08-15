@@ -2,6 +2,8 @@
 
 Media3 ExoPlayer app example utilizing [SLDP Media3 DataSource](https://github.com/Softvelum/sldp-media3-exo-plugin).
 
+Read more about our SLDP open source playback [in this blog post](https://softvelum.com/2025/08/sldp-exoplayer-media3-open-source/).
+
 ## Usage
 
 ### Version Catalog
