@@ -6,7 +6,11 @@ Read more about our SLDP open source playback [in this blog post](https://softve
 
 ## Usage
 
-### Version Catalog
+### Add the JitPack Repository to Your Build File
+
+Please refer to [How to on Jitpack website](https://jitpack.io/).
+
+### Add Version Catalog
 
 Add the following to your `libs.versions.toml` file:
 
